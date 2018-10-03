@@ -1,0 +1,6 @@
+1) ¿Por qué hacer copias de seguridad de su base de datos?
+ Para que no haya perdidas de datos, si se tiene una copia de seguridad se puede restaurar la BD completa o algunos datos. También por si ocurre algún error, perdidas de datos o algún mal ingreso de este, se puede volver a restaurar gracias a la copia de seguridad
+
+2)el output de este comando es mysqldrump -u root -p valdivia > test.sql , donde root es el nombre de usuario, valdivia es el nombre de la base de datos y test.sql es el respaldo de la base de datos de valdivia, contiene las tablas y los datos. 
+
+3)
