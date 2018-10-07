@@ -1,0 +1,4 @@
+usando la terminal, hay que ubicarse en la carpeta donde se almacena el archivo en este caso sakila-schema.sql
+luego entrar a mysql con el comando mysql -u root -p
+para cargar la base de dato se utiliza el comando source sakila-schema.sql y source sakila-data.sql
+y ya estan cargados los 2 archivos sql.
