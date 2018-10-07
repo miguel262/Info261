@@ -1,0 +1,2 @@
+use sakila;
+SELECT first_name, last_name FROM customer INNER JOIN rental ON customer.customer_id = rental.customer_id INNER JOIN inventory ON rental.inventory_id = inventory.inventory_id INNER JOIN film ON inventory.inventory_id = film.film_id WHERE title = "CHICAGO NORTH";
