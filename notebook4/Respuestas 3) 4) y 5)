@@ -1,0 +1,18 @@
+3) ¿Cómo podrían desplegar su API más allá de su computador local?
+
+mediante un protocolo HTTP que permita manipular los recursos de la API desde 
+un servidor cliente desde un computador local mediante los métodos GET(extrae datos 
+de un servidor) y POST que empuja nuevos datos al servidor
+
+4) ¿Observan algunas limitaciones al momento de crear una API web basada en MySQL?
+
+una limitación que puede tener la API es la integridad de las tablas de datos, al eliminar 
+una tabla, no se elimina automaticamente cualquier preferencia de ella 
+
+5) ¿Qué es el movimiento de Open Data? ¿En qué sentido podría aportar a la ciudad de Valdivia?
+
+el movimiento Open data persigue a los sofware "libres" que estan
+disponibles para todo usuario, sin restricciones de derechos de 
+autor o mecanismos de control, podría aportar en la ciudad de Valdivia por ejemplo 
+en estudio del clima, ya que se pueden extraer los datos de meteorología de esta zona
+y crear aplicaciones que dependan de los datos del clima.
